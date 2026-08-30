@@ -2,202 +2,202 @@
 - type: marking
   id: DionaThornsHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: thorns_head_colorable
 
 - type: marking
   id: DionaFlowersHead_colorable
   bodyPart: Head
-  groupWhitelist:: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: flowers_head_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: flowers_head_secondary_colorable
 
 - type: marking
   id: DionaBloomHead_colorable
   bodyPart: Head
-  groupWhitelist:: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: bloom_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: bloom_secondary_colorable
 
 - type: marking
   id: DionaBracketHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   coloring:
     default:
       type:
         !type:EyeColoring
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: bracket_colorable
 
 - type: marking
   id: DionaBrushHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   coloring:
     default:
       type:
         !type:SkinColoring
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: brush_colorable
 
 - type: marking
   id: DionaCornflowerHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: cornflower_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: cornflower_secondary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: cornflower_flowers_colorable
 
 - type: marking
   id: DionaFicusHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: ficus_colorable
 
 - type: marking
   id: DionaGarlandHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: garland_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: garland_secondary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: garland_flowers1_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: garland_flowers2_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: garland_flowers3_colorable
 
 - type: marking
   id: DionaKingHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: king_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: king_secondary_colorable
 
 - type: marking
   id: DionaLaurelHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: laurel_colorable
 
 - type: marking
   id: DionaLotusHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: lotus_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: lotus_secondary_colorable
 
 - type: marking
   id: DionaOakHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: oak_colorable
 
 - type: marking
   id: DionaPalmHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: palm_colorable
 
 - type: marking
   id: DionaRootHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: root_colorable
 
 - type: marking
   id: DionaRoseHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: rose_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: rose_secondary_colorable
 
 
 - type: marking
   id: DionaRoseyHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: rosey_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: rosey_secondary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: rosey_flowers_colorable
 
 - type: marking
   id: DionaVinelHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vinel_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vinel_secondary_colorable
 
 - type: marking
   id: DionaVinesHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vines_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vines_secondary_colorable
 
 - type: marking
   id: DionaWildflowerHead_colorable
   bodyPart: Head
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_secondary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_flowers1_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_flowers2_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_flowers3_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: wildflower_flowers4_colorable
 
 # Head Top
@@ -205,35 +205,35 @@
 - type: marking
   id: DionaLeafyHeadTop_colorable
   bodyPart: HeadTop
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: leafy_colorable
 
 - type: marking
   id: DionaMeadowHeadTop_colorable
   bodyPart: HeadTop
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: meadow_colorable
 
 - type: marking
   id: DionaShrubHeadTop_colorable
   bodyPart: HeadTop
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: shrub_colorable
 
 - type: marking
   id: DionaVineHeadTop_colorable
   bodyPart: HeadTop
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vine_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: vine_secondary_colorable
 
 - type: marking
@@ -245,13 +245,13 @@
       type:
         !type:EyeColoring
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sunflower_base
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sunflower_eyes
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sunflower_petals1
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sunflower_petals2
 
 - type: marking
@@ -263,7 +263,7 @@
       type:
         !type:EyeColoring
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sunflower_eyes
   # shader: unshaded #DEN | no marking shaders yet
 
@@ -271,19 +271,19 @@
 - type: marking
   id: DionaSpinnerHeadSide_colorable
   bodyPart: HeadSide
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: spinner_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: spinner_secondary_colorable
 
 - type: marking
   id: DionaSproutHeadSide_colorable
   bodyPart: HeadSide
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sprout_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: sprout_secondary_colorable

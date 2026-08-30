@@ -2,30 +2,31 @@
 - type: marking
   id: DionaThornsBody_colorable
   bodyPart: Chest
-  groupWhitelist:: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: thorns_body_colorable
 
 - type: marking
   id: DionaFlowersBody_colorable
   bodyPart: Chest
-  groupWhitelist: [Diona]
+  groupWhitelist: [ Diona ]
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: flowers_body_primary_colorable
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: flowers_body_secondary_colorable
 
 - type: marking
   id: DionaLeafCover_colorable
   bodyPart: Chest
-  markingCategory: Chest
-  speciesRestriction: [Diona]
+  # markingCategory: Chest
+  # speciesRestriction: [Diona]
+  groupWhitelist: [ Diona ]
   coloring:
     default:
       type:
         !type:SkinColoring
   sprites:
-  - sprite: _DEN/Mobs/Customization/diona.rsi
+  - sprite: _DEN/Mobs/Customization/Diona/diona.rsi
     state: leaf_cover_colorable
